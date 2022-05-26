@@ -3,7 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>A junior software developer based near London</p>
+<p>A junior software developer based near London, currently studying on the _nology software developer course.</p>
+<p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
+
+***
 
 <h3>Tech Stack</h3>
 <div>  
@@ -15,6 +18,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+***
+
+<h3>You can reach me on:<h3>
+ <div id="badges">
+  <a target=”_blank” href="https://www.linkedin.com/in/maria-pascoe-38a823239/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div> 
   
 
 <!--
