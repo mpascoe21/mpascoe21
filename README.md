@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>A junior software developer based near London, with a flair for problem solving, and a passion for making things look beautiful.</p>
+<p>A junior software developer based near London</p>
 
 <h3>Tech Stack</h3>
 <div>  
