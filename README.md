@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>A junior software developer based in the London area, currently studying on the _nology software developer course.</p>
+<p>A junior software developer based in the London area, currently studying on the _nology Software Developer Course.</p>
 <p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
 
 ***
