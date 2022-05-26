@@ -23,7 +23,7 @@
 
 <h3>You can reach me on:<h3>
  <div id="badges">
-  <a target=”blank” href="https://www.linkedin.com/in/maria-pascoe-38a823239/">
+  <a target=”_blank” href="https://www.linkedin.com/in/maria-pascoe-38a823239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div> 
