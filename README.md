@@ -1,7 +1,12 @@
- <h1>
+<div align="center">
+<h1>
   Hi, I'm Maria
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
+</div>
 
 <p>A junior software developer based in the London area, currently studying on the _nology Software Developer Course.</p>
 <p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
@@ -27,7 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div> 
-  
+ </div> 
 
 <!--
 **mpascoe21/mpascoe21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
