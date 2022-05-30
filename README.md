@@ -1,17 +1,15 @@
 <div align="center">
 <h1>
-  Hi, I'm Maria
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Maria  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>    
 </h1>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
-</div>
+  
+<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>  
 
 <p>A junior software developer based in the London area, currently studying on the _nology Software Developer Course.</p>
 <p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
-
-***
+  
+<h1></h1>
 
 <h3>Tech Stack</h3>
 <div>  
@@ -28,9 +26,9 @@
 <h4>I am currently learning</h4>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>
 
----
+<h1></h1>
 
-<h3>You can reach me on:<h3>
+<h3>You can reach me on<h3>
  <div id="badges">
   <a target=”_blank” href="https://www.linkedin.com/in/maria-pascoe-38a823239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
