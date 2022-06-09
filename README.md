@@ -7,7 +7,8 @@
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>  
 
 <p>A junior software developer based in the London area, currently studying on the _nology Software Developer Course.</p>
-<p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
+  <p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
+  <p>Scroll down to see some of my projects <img src="https://media.giphy.com/media/eViux7r7jt9WGq9MAL/giphy.gif" width="40" height="40"/></p>
   
 <h1></h1>
 
