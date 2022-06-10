@@ -8,8 +8,17 @@
 
 <p>A junior software developer based in the London area, currently studying on the _nology Software Developer Course.</p>
   <p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
-  <p>Scroll down to see some of my projects <img src="https://media.giphy.com/media/eViux7r7jt9WGq9MAL/giphy.gif" width="40" height="40"/></p>
-  
+  <h4>Here are some of my projects for you to check out:</h4>
+  <ul>
+    <a target=”_blank” href="https://github.com/mpascoe21/Portfolio">Portfolio</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/BrewDog-Punk-API">BrewDog-Punk-API</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/Ticket-Tracker">Ticket-Tracker</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/todo-list">Todo-list</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/Morse-Code-Translator">Morse-Code-Translator</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/Hostile-Aliens-2">Hostile-Aliens-2</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/Javascript-Game">Javascript-Game</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/Javascript-Calculator-Project">Javascript-Calculator-Project</a><br>
+  </ul>
 <h1></h1>
 
 <h3>Tech Stack</h3>
