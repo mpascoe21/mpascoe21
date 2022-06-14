@@ -11,7 +11,6 @@
   <h4>Here are some of my projects for you to check out:</h4>
   <ul>
     <a target=”_blank” href="https://github.com/mpascoe21/Portfolio">Portfolio</a><br>
-    <a target=”_blank” href="https://github.com/mpascoe21/BrewDog-Punk-API">BrewDog-Punk-API</a><br>
     <a target=”_blank” href="https://github.com/mpascoe21/Ticket-Tracker">Ticket-Tracker</a><br>
     <a target=”_blank” href="https://github.com/mpascoe21/todo-list">Todo-list</a><br>
     <a target=”_blank” href="https://github.com/mpascoe21/Morse-Code-Translator">Morse-Code-Translator</a><br>
@@ -47,6 +46,8 @@
  </div> 
 
 <!--
+
+    <a target=”_blank” href="https://github.com/mpascoe21/BrewDog-Punk-API">BrewDog-Punk-API</a><br>
 **mpascoe21/mpascoe21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
