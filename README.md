@@ -13,8 +13,8 @@
     <a target=”_blank” href="https://github.com/mpascoe21/Portfolio">Portfolio</a><br>
     <a target=”_blank” href="https://github.com/mpascoe21/Ticket-Tracker">Ticket-Tracker</a><br>
     <a target=”_blank” href="https://github.com/mpascoe21/todo-list">Todo-list</a><br>
+    <a target=”_blank” href="https://github.com/mpascoe21/Hostile-Aliens-2">Hostile-Aliens-2</a><br>    
     <a target=”_blank” href="https://github.com/mpascoe21/Morse-Code-Translator">Morse-Code-Translator</a><br>
-    <a target=”_blank” href="https://github.com/mpascoe21/Hostile-Aliens-2">Hostile-Aliens-2</a><br>
     <a target=”_blank” href="https://github.com/mpascoe21/Javascript-Game">Javascript-Game</a><br>
     <a target=”_blank” href="https://github.com/mpascoe21/Javascript-Calculator-Project">Javascript-Calculator-Project</a><br>
   </ul>
