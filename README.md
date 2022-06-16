@@ -6,8 +6,10 @@
   
 <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>  
 
-<p>A junior software developer based in the London area, currently studying on the _nology Software Developer Course.</p>
-  <p>I have a passion for pixel-perfect design and a flair for problem solving.</p>
+<h3>A junior software developer based in the London area, currently studying on the _nology Software Developer Course.
+  
+  <br> I have a passion for pixel-perfect design and a flair for problem solving.</h3>
+  
   <h4>Here are some of my projects for you to check out:</h4>
   <ul>
     <a target=”_blank” href="https://github.com/mpascoe21/Portfolio">Portfolio</a><br>
